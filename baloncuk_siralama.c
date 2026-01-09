@@ -2,6 +2,7 @@
 
 // zeynep feyza dinç
 // 2420171038
+//https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=mKEhkVx1n9
 
 int main() {
     int dizi[10] = {12, 34, 40, 60, 87, 93, 55, 16, 74, 11};
